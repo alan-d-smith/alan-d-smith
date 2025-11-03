@@ -1,5 +1,5 @@
 ## About
-I'm a first-year Computer Science student at **Lancaster University**, with a minor in Mathematics and an interest in quantitative finance.
+I'm a first-year Computer Science student at **Lancaster University**, with a minor in Economics and an interest in quantitative finance.
 
 ---
 
