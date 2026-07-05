@@ -1,5 +1,5 @@
-## About
-I'm a first-year Computer Science student at **Lancaster University**, with a minor in Economics and an interest in quantitative finance.
+# About
+I'm starting my Computer Science degree at King's College London this September.
 
 ---
 
@@ -27,5 +27,3 @@ I'm a first-year Computer Science student at **Lancaster University**, with a mi
 | *The Art of Computer Programming*                                     | Donald E. Knuth      | An incredibly in depth classic                     |
 | *Introduction to Graph Theory* (2nd edition)                          | Robin J. Wilson      | Graph theory introduction                          |
 | *A First Course in Combinatorial Mathematics*                         | Ian Anderson         | Combinatorics introduction                         |
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-d-smith&theme=radical)](https://github.com/alan-d-smith)
