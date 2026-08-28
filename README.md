@@ -1,5 +1,5 @@
 # About
-I'm starting my Computer Science degree at King's College London this September.
+CS @ King's College London '29
 
 ---
 
