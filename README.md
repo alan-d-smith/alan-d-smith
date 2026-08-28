@@ -17,13 +17,3 @@ CS @ King's College London '29
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-# Favourite Books
-
-| Title                                                                 | Author               | Notes                                              |
-|-----------------------------------------------------------------------|----------------------|----------------------------------------------------|
-| [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau | Amazing OS book which is freely available |
-| *x64 Assembly Language: Step-by-Step*                                 | Jeff Duntemann       | Nice introduction to assembly language programming |
-| *The Art of Computer Programming*                                     | Donald E. Knuth      | An incredibly in depth classic                     |
-| *Introduction to Graph Theory* (2nd edition)                          | Robin J. Wilson      | Graph theory introduction                          |
-| *A First Course in Combinatorial Mathematics*                         | Ian Anderson         | Combinatorics introduction                         |
