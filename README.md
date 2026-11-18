@@ -1,13 +1,17 @@
+# Alan Smith
+
+CS @ King's College London '29. I work on trading systems and low-level software.
+
+Previously Head of Quant Dev at the [LU Ghosal Investment Fund](https://ghosal.fund/), where we built [GhosalQuant](https://github.com/Ghosal-Quants/GhosalQuant).
+
+[![pip install ghosalquant](https://img.shields.io/pypi/v/ghosalquant?style=flat-square&color=3775A9&label=pip%20install%20ghosalquant&labelColor=111)](https://pypi.org/project/ghosalquant/)
+
 <table width="100%">
   <tr>
-    <td colspan="2" valign="middle">
-      <a href="https://codeforces.com/profile/alan-d-smith" title="Codeforces"><img align="right" width="26" alt="Codeforces" src="https://cdn.simpleicons.org/codeforces"></a>
-      <a href="https://www.linkedin.com/in/alan-david-smith/" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
-      <a href="https://alan-d-smith.github.io/" title="alan-d-smith.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/logo-dark.svg"><img width="22" align="absmiddle" alt="alan-d-smith.github.io" src="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/logo-light.svg"></picture></a> <b>Hey, I'm Alan 👋</b>
-      <br />
-      CS @ King's College London '29. I work on trading systems and low-level software.
-      <br />
-      <sub>Previously Head of Quant Dev at the <a href="https://ghosal.fund/">LU Ghosal Investment Fund</a>, where I architected <a href="https://github.com/Ghosal-Quants/GhosalQuant">GhosalQuant</a> <a href="https://pypi.org/project/ghosalquant/"><img align="absmiddle" alt="PyPI" src="https://img.shields.io/pypi/v/ghosalquant?style=flat-square&color=3775A9&label=pip%20install%20ghosalquant&labelColor=111"></a></sub>
+    <td colspan="2" align="right" valign="middle">
+      <a href="https://alan-d-smith.github.io/" title="alan-d-smith.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/icon-portfolio-dark.svg"><img width="26" height="26" alt="Portfolio" src="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/icon-portfolio-light.svg"></picture></a>&nbsp;
+      <a href="https://www.linkedin.com/in/alan-david-smith/" title="LinkedIn"><img width="26" height="26" alt="LinkedIn" src="assets/icon-linkedin.svg"></a>&nbsp;
+      <a href="https://codeforces.com/profile/alan-d-smith" title="Codeforces"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/icon-codeforces-dark.svg"><img width="26" height="26" alt="Codeforces" src="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/icon-codeforces-light.svg"></picture></a>
     </td>
   </tr>
   <tr>
