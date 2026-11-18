@@ -1,7 +1,8 @@
 <table width="100%">
   <tr>
     <td colspan="2" valign="middle">
-      <a href="https://www.linkedin.com/in/alan-david-smith/" title="LinkedIn"><img align="right" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+      <a href="https://codeforces.com/profile/alan-d-smith" title="Codeforces"><img align="right" width="26" alt="Codeforces" src="https://cdn.simpleicons.org/codeforces"></a>
+      <a href="https://www.linkedin.com/in/alan-david-smith/" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
       <a href="https://alan-d-smith.github.io/" title="alan-d-smith.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/logo-dark.svg"><img width="22" align="absmiddle" alt="alan-d-smith.github.io" src="https://raw.githubusercontent.com/alan-d-smith/alan-d-smith/main/assets/logo-light.svg"></picture></a> <b>Hey, I'm Alan 👋</b>
       <br />
       CS @ King's College London '29. I work on trading systems and low-level software.
@@ -12,21 +13,17 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/alan-d-smith/CTrader"><img width="100%" src="assets/ctrader.webp" alt="CTrader: live JPM candlestick chart above a watchlist of quotes" /></a>
-      <br /><b>CTrader</b> <sub>· live market dashboard · C++, ImGui</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/alan-d-smith/WaffleOS"><img width="100%" src="assets/waffleos.webp" alt="WaffleOS: desktop with Notepad and Terminal windows open" /></a>
-      <br /><b>WaffleOS</b> <sub>· 32-bit x86 OS, Hack Club Arcade finalist · C, NASM</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://latchlabs.app"><img width="100%" src="assets/latch.webp" alt="Latch: unlock screen asking a Spanish question before Instagram opens" /></a>
-      <br /><b>Latch</b> <sub>· learn something before you doomscroll · Swift, SwiftUI</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/alan-d-smith/MNIST-From-Scratch"><img width="100%" src="assets/mnist.webp" alt="MNIST From Scratch: gradient descent paths on a loss surface above handwritten digits" /></a>
-      <br /><b>MNIST From Scratch</b> <sub>· NumPy-only neural net, 93% test acc</sub>
     </td>
   </tr>
   <tr>
